@@ -13,11 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^26.6.6",
-    "typescript": "^5.9.3"
-  },
   "dependencies": {
-    "mysql2": "^3.24.6"
+    "@types/node": "^22.13.9",
+    "mysql2": "^3.24.6",
+    "typescript": "^5.9.3"
   }
 }
